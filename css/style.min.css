@@ -1,0 +1,36 @@
+.page__heading {
+  display: block;
+  font-size: 3.5rem;
+  line-height: 4rem;
+  font-weight: 700;
+  margin: 0 0 3rem;
+}
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.delivery_container {
+  padding: 40px 40px;
+  border: 1px solid #CBCBCB;
+  margin-top: 1rem;
+  height: 100%;
+}
+
+.delivery_container p.text_28 {
+  font-weight: 700;
+  padding-left: 1rem;
+  padding-bottom: 0;
+  margin-bottom: 3rem;
+  font-size: 28px;
+}
+
+.delivery_container p {
+  position: relative;
+  margin-bottom: 0;
+  padding-bottom: 1.5rem;
+  padding-left: 3rem;
+}
+
+/*# sourceMappingURL=style.min.css.map */
